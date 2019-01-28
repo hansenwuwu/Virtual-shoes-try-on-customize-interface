@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 43a0fc4299d964a26a17df32e3a637ce
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: "\u7269\u4EF6_1"
+    100004: "\u7269\u4EF6_10"
+    100006: "\u7269\u4EF6_11"
+    100008: "\u7269\u4EF6_11_MeshPart0"
+    100010: "\u7269\u4EF6_11_MeshPart1"
+    100012: "\u7269\u4EF6_11_MeshPart2"
+    100014: "\u7269\u4EF6_11_MeshPart3"
+    100016: "\u7269\u4EF6_12"
+    100018: "\u7269\u4EF6_13"
+    100020: "\u7269\u4EF6_13_MeshPart0"
+    100022: "\u7269\u4EF6_13_MeshPart1"
+    100024: "\u7269\u4EF6_13_MeshPart2"
+    100026: "\u7269\u4EF6_13_MeshPart3"
+    100028: "\u7269\u4EF6_14"
+    100030: "\u7269\u4EF6_15"
+    100032: "\u7269\u4EF6_16"
+    100034: "\u7269\u4EF6_2"
+    100036: "\u7269\u4EF6_3"
+    100038: "\u7269\u4EF6_4"
+    100040: "\u7269\u4EF6_5"
+    100042: "\u7269\u4EF6_5_MeshPart0"
+    100044: "\u7269\u4EF6_5_MeshPart1"
+    100046: "\u7269\u4EF6_6"
+    100048: "\u7269\u4EF6_7"
+    100050: "\u7269\u4EF6_8"
+    100052: "\u7269\u4EF6_8_MeshPart0"
+    100054: "\u7269\u4EF6_8_MeshPart1"
+    100056: "\u7269\u4EF6_9"
+    100058: "\u7269\u4EF6_9_MeshPart0"
+    100060: "\u7269\u4EF6_9_MeshPart1"
+    400000: //RootNode
+    400002: "\u7269\u4EF6_1"
+    400004: "\u7269\u4EF6_10"
+    400006: "\u7269\u4EF6_11"
+    400008: "\u7269\u4EF6_11_MeshPart0"
+    400010: "\u7269\u4EF6_11_MeshPart1"
+    400012: "\u7269\u4EF6_11_MeshPart2"
+    400014: "\u7269\u4EF6_11_MeshPart3"
+    400016: "\u7269\u4EF6_12"
+    400018: "\u7269\u4EF6_13"
+    400020: "\u7269\u4EF6_13_MeshPart0"
+    400022: "\u7269\u4EF6_13_MeshPart1"
+    400024: "\u7269\u4EF6_13_MeshPart2"
+    400026: "\u7269\u4EF6_13_MeshPart3"
+    400028: "\u7269\u4EF6_14"
+    400030: "\u7269\u4EF6_15"
+    400032: "\u7269\u4EF6_16"
+    400034: "\u7269\u4EF6_2"
+    400036: "\u7269\u4EF6_3"
+    400038: "\u7269\u4EF6_4"
+    400040: "\u7269\u4EF6_5"
+    400042: "\u7269\u4EF6_5_MeshPart0"
+    400044: "\u7269\u4EF6_5_MeshPart1"
+    400046: "\u7269\u4EF6_6"
+    400048: "\u7269\u4EF6_7"
+    400050: "\u7269\u4EF6_8"
+    400052: "\u7269\u4EF6_8_MeshPart0"
+    400054: "\u7269\u4EF6_8_MeshPart1"
+    400056: "\u7269\u4EF6_9"
+    400058: "\u7269\u4EF6_9_MeshPart0"
+    400060: "\u7269\u4EF6_9_MeshPart1"
+    2300000: "\u7269\u4EF6_1"
+    2300002: "\u7269\u4EF6_10"
+    2300004: "\u7269\u4EF6_11_MeshPart0"
+    2300006: "\u7269\u4EF6_11_MeshPart1"
+    2300008: "\u7269\u4EF6_11_MeshPart2"
+    2300010: "\u7269\u4EF6_11_MeshPart3"
+    2300012: "\u7269\u4EF6_12"
+    2300014: "\u7269\u4EF6_13_MeshPart0"
+    2300016: "\u7269\u4EF6_13_MeshPart1"
+    2300018: "\u7269\u4EF6_13_MeshPart2"
+    2300020: "\u7269\u4EF6_13_MeshPart3"
+    2300022: "\u7269\u4EF6_14"
+    2300024: "\u7269\u4EF6_15"
+    2300026: "\u7269\u4EF6_16"
+    2300028: "\u7269\u4EF6_2"
+    2300030: "\u7269\u4EF6_3"
+    2300032: "\u7269\u4EF6_4"
+    2300034: "\u7269\u4EF6_5_MeshPart0"
+    2300036: "\u7269\u4EF6_5_MeshPart1"
+    2300038: "\u7269\u4EF6_6"
+    2300040: "\u7269\u4EF6_7"
+    2300042: "\u7269\u4EF6_8_MeshPart0"
+    2300044: "\u7269\u4EF6_8_MeshPart1"
+    2300046: "\u7269\u4EF6_9_MeshPart0"
+    2300048: "\u7269\u4EF6_9_MeshPart1"
+    3300000: "\u7269\u4EF6_1"
+    3300002: "\u7269\u4EF6_10"
+    3300004: "\u7269\u4EF6_11_MeshPart0"
+    3300006: "\u7269\u4EF6_11_MeshPart1"
+    3300008: "\u7269\u4EF6_11_MeshPart2"
+    3300010: "\u7269\u4EF6_11_MeshPart3"
+    3300012: "\u7269\u4EF6_12"
+    3300014: "\u7269\u4EF6_13_MeshPart0"
+    3300016: "\u7269\u4EF6_13_MeshPart1"
+    3300018: "\u7269\u4EF6_13_MeshPart2"
+    3300020: "\u7269\u4EF6_13_MeshPart3"
+    3300022: "\u7269\u4EF6_14"
+    3300024: "\u7269\u4EF6_15"
+    3300026: "\u7269\u4EF6_16"
+    3300028: "\u7269\u4EF6_2"
+    3300030: "\u7269\u4EF6_3"
+    3300032: "\u7269\u4EF6_4"
+    3300034: "\u7269\u4EF6_5_MeshPart0"
+    3300036: "\u7269\u4EF6_5_MeshPart1"
+    3300038: "\u7269\u4EF6_6"
+    3300040: "\u7269\u4EF6_7"
+    3300042: "\u7269\u4EF6_8_MeshPart0"
+    3300044: "\u7269\u4EF6_8_MeshPart1"
+    3300046: "\u7269\u4EF6_9_MeshPart0"
+    3300048: "\u7269\u4EF6_9_MeshPart1"
+    4300000: "\u7269\u4EF6_1"
+    4300002: "\u7269\u4EF6_2"
+    4300004: "\u7269\u4EF6_3"
+    4300006: "\u7269\u4EF6_4"
+    4300008: "\u7269\u4EF6_5_MeshPart0"
+    4300010: "\u7269\u4EF6_5_MeshPart1"
+    4300012: "\u7269\u4EF6_6"
+    4300014: "\u7269\u4EF6_7"
+    4300016: "\u7269\u4EF6_8_MeshPart0"
+    4300018: "\u7269\u4EF6_8_MeshPart1"
+    4300020: "\u7269\u4EF6_9_MeshPart0"
+    4300022: "\u7269\u4EF6_9_MeshPart1"
+    4300024: "\u7269\u4EF6_10"
+    4300026: "\u7269\u4EF6_11_MeshPart0"
+    4300028: "\u7269\u4EF6_11_MeshPart1"
+    4300030: "\u7269\u4EF6_11_MeshPart2"
+    4300032: "\u7269\u4EF6_11_MeshPart3"
+    4300034: "\u7269\u4EF6_12"
+    4300036: "\u7269\u4EF6_13_MeshPart0"
+    4300038: "\u7269\u4EF6_13_MeshPart1"
+    4300040: "\u7269\u4EF6_13_MeshPart2"
+    4300042: "\u7269\u4EF6_13_MeshPart3"
+    4300044: "\u7269\u4EF6_14"
+    4300046: "\u7269\u4EF6_15"
+    4300048: "\u7269\u4EF6_16"
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: -01_0_0_0
+    second: {fileID: 2100000, guid: 31a2b87586d7048dfbc0f441ffe1d581, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: -02-1_0_0_0
+    second: {fileID: 2100000, guid: 7065045d9bbc74d8992b88ff44b7a7c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: -02_0_0_255
+    second: {fileID: 2100000, guid: 931b6ac01674845c8b45287b97c82194, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '-02_0_0_255 #2'
+    second: {fileID: 2100000, guid: 63c263113a6db4f9dada76808771aee7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Mold-Tech-15605 #1'
+    second: {fileID: 2100000, guid: 25379301678904a949ceba27dba00cf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Mold-Tech-15605 #5'
+    second: {fileID: 2100000, guid: 1308d2e7b184141b89a18f51cd517bd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Mold-Tech-15605 #9'
+    second: {fileID: 2100000, guid: 29691adc5526040fb91f3fb321caf6e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Threads_255_255_255
+    second: {fileID: 2100000, guid: 8b2e1a83c86d3448c81f94cd41182836, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Threads_255_255_255 #1'
+    second: {fileID: 2100000, guid: 8df528086429e4a97ac7ee53aa38fd4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _0_255_0
+    second: {fileID: 2100000, guid: 3705cfea3e651462a90489246bfca7bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _200_191_231
+    second: {fileID: 2100000, guid: 18a96b5983d3040ff9ea2b62200166b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _255_0_255
+    second: {fileID: 2100000, guid: d1d80637475644a389cb943b465b760e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '_63_191_127 #2'
+    second: {fileID: 2100000, guid: d66a2e95660c841d2b0bb66ee18ac225, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '_63_191_127 #3'
+    second: {fileID: 2100000, guid: 8d324bbef3c734947b5eabe84b1221f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _63_255_63
+    second: {fileID: 2100000, guid: 43d2b465e9f074c149e3c7bcf8b4b0b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: color1_255_201_14
+    second: {fileID: 2100000, guid: 72d7657841da64cd4af06677afe49250, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
